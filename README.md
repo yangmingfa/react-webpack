@@ -1,6 +1,6 @@
-# webpack-demo
-关于一个react项目的webpack的基本配置，包括热替换                                               
-git clone https://github.com/yangmingfa/webpack-demo.git 即可克隆项目到本地                   
+# react-webpack
+配置了一点react项目的基本配置（配置未齐全）                                              
+git clone https://github.com/yangmingfa/react-webpack.git 即可克隆项目到本地                   
 项目使用node版本为v6.9.2                                                                     
 项目到本地后 执行npm install 安装所有依赖                                                      
 项目使用webpack-dev-server作为服务器                                                          
